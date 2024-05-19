@@ -1,34 +1,40 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
+Deck Type=constructed
+Set=M11
+Image=stampede_of_beasts.jpg
 Name=Stampede of Beasts
-[general]
-Constructed
-[main]
-2 Sylvan Ranger
-1 Cultivate
-1 Overwhelming Stampede
-1 Greater Basilisk
-1 Sacred Wolf
-2 Garruk's Packleader
-1 Plummet
-1 Chandra's Outrage
-1 Act of Treason
-2 Awakener Druid
-2 Prized Unicorn
-1 Protean Hydra
-1 Lava Axe
-1 Spined Wurm
-2 Yavimaya Wurm
-1 Fireball
-2 Giant Growth
-2 Giant Spider
-1 Lightning Bolt
-2 Llanowar Elves
-1 Whispersilk Cloak
-2 Duskdale Wurm
-2 Runeclaw Bear
-1 Nature's Spiral
-1 Fling
-1 Back to Nature
-8 Mountain
-16 Forest
-[sideboard]
+Description=Summon monstrous beasts, wurms, and hydras, and use them to stomp your opponent's forces like insects. Then cast Overwhelming Stampede to give your forces a lethal boost of power.
+[Main]
+1 Act of Treason|M11
+2 Awakener Druid|M11
+1 Back to Nature|M11
+1 Chandra's Outrage|M11
+1 Cultivate|M11
+2 Duskdale Wurm|M11
+1 Fireball|M11
+1 Fling|M11
+16 Forest|M11
+2 Garruk's Packleader|M11
+2 Giant Growth|M11
+2 Giant Spider|M11
+1 Greater Basilisk|M11
+1 Lava Axe|M11
+1 Lightning Bolt|M11
+2 Llanowar Elves|M11
+8 Mountain|M11
+1 Nature's Spiral|M11
+1 Overwhelming Stampede+|M11
+1 Plummet|M11
+2 Prized Unicorn|M11
+1 Protean Hydra|M11
+2 Runeclaw Bear|M11
+1 Sacred Wolf|M11
+1 Spined Wurm|M11
+2 Sylvan Ranger|M11
+1 Whispersilk Cloak|M11
+2 Yavimaya Wurm|M11

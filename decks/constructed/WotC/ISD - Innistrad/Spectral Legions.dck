@@ -1,31 +1,39 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Spectral Legions
-[general]
-Constructed
+Description=Fill the skies with swirls of geists, then power up all your creatures of the spectral realms. Be sure to laugh maniacally as your enemies scramble to steam your swarm of horrifying haunts.
+Deck Type=constructed
+Deck Type=constructed
+Set=ISD
+Image=spectral_legions.jpg
 [main]
-10 Island
-14 Plains
-1 Angel of Flight Alabaster
-1 Battleground Geist
-2 Chapel Geist
-2 Doomed Traveler
-1 Gallows Warden
-1 Geist-Honored Monk
-2 Lantern Spirit
-2 Mausoleum Guard
-3 Moon Heron
-2 Spectral Rider
-2 Voiceless Spirit
-1 Curiosity
-2 Divine Favor
-1 Ghostly Possession
-1 Lifelink
-1 Lost in the Mist
-2 Midnight Haunting
-1 Moment of Heroism
-1 Negate
-2 Pacifism
-2 Rebuke
-1 Spirit Mantle
-2 Unsummon
+10 Island|ISD
+14 Plains|ISD
+1 Angel of Flight Alabaster+|ISD
+1 Battleground Geist|ISD
+2 Chapel Geist|ISD
+2 Doomed Traveler|ISD
+1 Gallows Warden|ISD
+1 Geist-Honored Monk|ISD
+2 Lantern Spirit|ISD
+2 Mausoleum Guard|ISD
+3 Moon Heron|ISD
+2 Spectral Rider|ISD
+2 Voiceless Spirit|ISD
+1 Curiosity|ISD
+2 Divine Favor|M12
+1 Ghostly Possession|ISD
+1 Lifelink|M12
+2 Pacifism|M12
+1 Spirit Mantle|M12
+1 Lost in the Mist|ISD
+2 Midnight Haunting|ISD
+1 Moment of Heroism|ISD
+1 Negate|M12
+2 Rebuke|ISD
+2 Unsummon|M12
 [sideboard]

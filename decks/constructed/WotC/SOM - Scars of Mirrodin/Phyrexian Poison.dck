@@ -1,28 +1,35 @@
+[shop]
+WinsToUnlock=0
+Credits=1400
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Phyrexian Poison
-[general]
-Constructed
+Description=The infect mechanic in this green and black deck allows your creatures, like the mighty Putrefx, to spread the Phyrexian contagion. After you've inflicted ten poison counters, your opponent's only remedy will be to demand a rematch!
+Deck Type=constructed
+Set=SOM
+Image=phyrexian_poison.jpg
 [main]
-13 Forest
-13 Swamp
-1 Blackcleave Goblin
-1 Contagious Nim
-2 Corpse Cur
-2 Cystbearer
-1 Hand of the Praetors
-2 Ichor Rats
-3 Ichorclaw Myr
-2 Necropede
-3 Plague Stinger
-1 Putrefax
-2 Tangle Angler
-2 Assassinate
-2 Bladed Pinions
-2 Carrion Call
-2 Giant Growth
-1 Heavy Arbalest
-1 Relic Putrescence
-1 Rise from the Grave
-2 Slice in Twain
-1 Strider Harness
+2 Bladed Pinions|SOM
+1 Heavy Arbalest|SOM
+1 Strider Harness|SOM
+2 Corpse Cur|SOM
+3 Ichorclaw Myr|SOM
+2 Necropede|SOM
+13 Forest|SOM
+13 Swamp|SOM
+1 Blackcleave Goblin|SOM
+1 Contagious Nim|SOM
+2 Cystbearer|SOM
+1 Hand of the Praetors|SOM
+2 Ichor Rats|SOM
+3 Plague Stinger|SOM
+1 Putrefax+|SOM
+2 Tangle Angler|SOM
+1 Relic Putrescence|SOM
+2 Carrion Call|SOM
+2 Giant Growth|M11
+2 Slice in Twain|SOM
+2 Assassinate|M11
+1 Rise from the Grave|M11
 [sideboard]

@@ -1,37 +1,43 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Abzan Siege
-[general]
-Constructed
-[main]
-1 Carnivorous Moss-Beast
-2 Child of Night
-1 Eternal Thirst
-1 Flesh to Dust
-1 Hunt the Weak
-1 Razorfoot Griffin
-1 Sungrace Pegasus
-2 Abzan Banner
-1 Abzan Battle Priest
-1 Abzan Charm
-2 Abzan Falconer
-3 Ainok Bond-Kin
-1 Armament Corps
-1 Blossoming Sands
-2 Disowned Ancestor
-1 Dragonscale Boon
-6 Forest
-1 High Sentinels of Arashin
-1 Incremental Growth
-1 Ivorytusk Fortress
-1 Jungle Hollow
-2 Kill Shot
-2 Longshot Squad
-1 Mer-Ek Nightblade
-8 Plains
-2 Salt Road Patrol
-2 Sandsteppe Citadel
-1 Scoured Barrens
-1 Suspension Field
-7 Swamp
-2 Tuskguard Captain
-[sideboard]
+Description=The Abzan rely on endurance and fortitude to outlast the other clans. Build a resilient army, survive your enemy's rash attacks, and then march to an eventual victory.
+Deck Type=constructed
+Set=KTK
+Image=abzan_siege.jpg
+[Main]
+6 Forest|KTK
+7 Swamp|KTK
+8 Plains|KTK
+1 Scoured Barrens|KTK
+2 Sandsteppe Citadel|KTK
+1 Jungle Hollow|KTK
+1 Blossoming Sands|KTK
+1 Mer-ek Nightblade|KTK
+1 Carnivorous Moss-beast|M15
+1 Ivorytusk Fortress+|KTK
+1 Armament Corps|KTK
+2 Longshot Squad|KTK
+2 Disowned Ancestor|KTK
+3 Ainok Bond-kin|KTK
+1 Sungrace Pegasus|M15
+2 Child Of Night|M15
+2 Abzan Falconer|KTK
+2 Tuskguard Captain|KTK
+1 Abzan Battle Priest|KTK
+1 High Sentinels Of Arashin|KTK
+1 Razorfoot Griffin|M15
+2 Salt Road Patrol|KTK
+1 Incremental Growth|KTK
+1 Flesh To Dust|M15
+1 Hunt The Weak|M15
+1 Dragonscale Boon|KTK
+1 Abzan Charm|KTK
+2 Kill Shot|KTK
+2 Abzan Banner|KTK
+1 Eternal Thirst|M15
+1 Suspension Field|KTK

@@ -1,37 +1,44 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Stampede
-[general]
-constructed
+Description=One very good strategy is to pound your opponents into the ground before they're able to bring their artifacts out and use them, and the "Stampede" deck can help you achieve this goal. The deck plays in a fairly straightforward manner and has a nice progression of creatures and spells. In the early game, play a few of your small creatures and get in some early hits. Between the direct-damage spells and the artifact destruction, you should be able to keep the board reasonably clear early on, allowing your small, unobstructed creatures to deal plenty of damage. Once you get up to four or five mana, start laying down the big monsters and attempt to win with size.
+Deck Type=constructed
+Set=5DN
+Image=stampede.jpg
 [main]
-1 Goblin Cannon
-1 Pyrite Spellbomb
-2 Talisman of Impulse
-1 Goblin Replica
-11 Forest
-12 Mountain
-1 Cosmic Larva
-1 Eternal Witness
-1 Fangren Hunter
-2 Fangren Pathcutter
-2 Goblin Brawler
-1 Iron-Barb Hellion
-1 Slith Firewalker
-1 Spark Elemental
-2 Spikeshot Goblin
-2 Sylvok Explorer
-1 Tangle Asp
-1 Tel-Jilad Chosen
-2 Tel-Jilad Exile
-1 Tel-Jilad Lifebreather
-2 Tyrranax
-2 Viridian Lorebearers
-1 Vulshok Berserker
-1 Vulshok Sorcerer
-1 Rite of Passage
-1 Barbed Lightning
-1 Ferocious Charge
-1 Grab the Reins
-1 Magma Jet
-1 Rain of Rust
-1 Tel-Jilad Justice
+1 Goblin Cannon|5DN
+1 Pyrite Spellbomb|MRD
+2 Talisman of Impulse|MRD
+1 Goblin Replica|MRD
+11 Forest|MRD
+12 Mountain|MRD
+1 Cosmic Larva|5DN
+1 Eternal Witness|5DN
+1 Fangren Hunter|MRD
+2 Fangren Pathcutter|5DN
+2 Goblin Brawler|5DN
+1 Iron-Barb Hellion|5DN
+1 Slith Firewalker|MRD
+1 Spark Elemental|5DN
+2 Spikeshot Goblin|MRD
+2 Sylvok Explorer|5DN
+1 Tangle Asp|5DN
+1 Tel-Jilad Chosen|MRD
+2 Tel-Jilad Exile|MRD
+1 Tel-Jilad Lifebreather|5DN
+2 Tyrranax|5DN
+2 Viridian Lorebearers|5DN
+1 Vulshok Berserker|MRD
+1 Vulshok Sorcerer|5DN
+1 Rite of Passage|5DN
+1 Barbed Lightning|DST
+1 Ferocious Charge|5DN
+1 Grab the Reins|MRD
+1 Magma Jet|5DN
+1 Rain of Rust|5DN
+1 Tel-Jilad Justice|5DN
 [sideboard]
