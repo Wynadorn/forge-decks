@@ -1,0 +1,24 @@
+[metadata]
+Name=Lightning Aggro
+Format=Standard
+[general]
+Constructed
+[main]
+1 Banefire
+22 Mountain
+4 Shock
+4 Lightning Strike
+4 Fanatical Firebrand
+1 Rekindling Phoenix
+4 Goblin Chainwhirler
+4 Ghitu Lavarunner
+4 Wizard's Lightning
+4 Viashino Pyromancer
+4 Runaway Steam-Kin
+2 Lava Coil
+2 Experimental Frenzy
+[sideboard]
+3 Fiery Cannonade
+4 Fight with Fire
+4 Diamond Mare
+4 Lightning Mare
