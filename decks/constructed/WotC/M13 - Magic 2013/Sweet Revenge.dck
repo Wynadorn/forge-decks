@@ -1,32 +1,39 @@
+[shop]
+WinsToUnlock=20
+Credits=2000
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Sweet Revenge
-[general]
-Constructed
+Description=Stoke the flames of the past with the "Sweet Revenge" deck. Just a few key creatures will distract your foes from your constant spellcasting escapades, while Burning Vengeance punishes them again with every flashback spell you cast.
+Deck Type=constructed
+Set=M13
+Image=sweet_revenge.jpg
 [main]
-1 Darkslick Shores
-2 Slagstorm
-1 Silent Departure
-1 Red Sun's Zenith
-3 Forbidden Alchemy
-4 Think Twice
-4 Desperate Ravings
-3 Pillar of Flame
-4 Fettergeist
-1 Desolate Lighthouse
-1 Sulfur Falls
-4 Burning Vengeance
-2 Armored Skaab
-4 Faithless Looting
-2 Geistflame
-1 Rolling Temblor
-1 Firewing Phoenix
-4 Evolving Wilds
-1 Swamp
-7 Island
-9 Mountain
+1 Darkslick Shores|SOM
+2 Slagstorm|MBS
+1 Silent Departure|ISD
+1 Red Sun's Zenith|MBS
+3 Forbidden Alchemy|ISD
+4 Think Twice|ISD
+4 Desperate Ravings|ISD
+3 Pillar of Flame|AVR
+4 Fettergeist|AVR
+1 Desolate Lighthouse|AVR
+1 Sulfur Falls|ISD
+4 Burning Vengeance|ISD
+2 Armored Skaab|ISD
+4 Faithless Looting|DKA
+2 Geistflame|ISD
+1 Rolling Temblor|ISD
+1 Firewing Phoenix|M13
+4 Evolving Wilds|M13
+1 Swamp|M13
+7 Island|M13
+9 Mountain|M13
 [sideboard]
-2 Arc Trail
-4 Bloodcrazed Neonate
-2 Dismember
-4 Screeching Skaab
-3 Secrets of the Dead
+2  Arc Trail|SOM
+4  Bloodcrazed Neonate|ISD
+2  Dismember|NPH
+4  Screeching Skaab|DKA
+3  Secrets of the Dead|DKA

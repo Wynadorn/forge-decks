@@ -1,25 +1,31 @@
+[shop]
+WinsToUnlock=0
+Credits=3000
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
-Name=Cavalcade Charge
-Format=Standard
-[general]
-Constructed
-[main]
-18 Mountain
-4 Runaway Steam-Kin
-3 Tin Street Dodger
-4 Cavalcade of Calamity
-4 Light Up the Stage
-3 Chandra, Acolyte of Flame
-4 Scorch Spitter
-4 Torbran, Thane of Red Fell
-3 Castle Embereth
-4 Rimrock Knight
-4 Bonecrusher Giant
-1 Embercleave
-4 Fervent Champion
-[sideboard]
-4 Shock
-3 Experimental Frenzy
-2 Tibalt, Rakish Instigator
-3 Slaying Fire
-3 Satyr's Cunning
+Name=Cavalcade Charge - Challenger 2020
+Description=Mono red aggro deck, featuring 25 rares and 1 mythic rare.
+Deck Type=constructed
+Set=THB
+Image=cavalcade_charge.jpg
+[Main]
+4 Bonecrusher Giant|ELD
+3 Castle Embereth|ELD
+4 Cavalcade of Calamity|RNA
+3 Chandra, Acolyte of Flame|M20
+1 Embercleave|ELD
+4 Fervent Champion|ELD
+4 Light Up the Stage|RNA
+18 Mountain|M20
+4 Rimrock Knight|ELD
+4 Runaway Steam-Kin|GRN
+4 Scorch Spitter|M20
+3 Tin Street Dodger|RNA
+4 Torbran, Thane of Red Fell|ELD
+[Sideboard]
+3 Experimental Frenzy|GRN
+3 Satyr's Cunning|THB
+4 Shock|M20
+3 Slaying Fire|ELD
+2 Tibalt, Rakish Instigator|WAR

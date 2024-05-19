@@ -1,28 +1,36 @@
+[shop]
+WinsToUnlock=0
+Credits=1099
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Vivien of the Arkbow
-Format=Preconstructed
-[general]
-Constructed
-[main]
-26 Forest
-1 Oakenform
-1 Pelakka Wurm
-2 Plummet
-2 Titanic Growth
-1 Reclamation Sage
-2 Rabid Bite
-1 Thornhide Wolves
-2 Druid of the Cowl
-2 Colossal Dreadmaw
-1 Aggressive Mammoth
-2 Bristling Boar
-1 Colossal Majesty
-1 Declare Dominance
-2 Elvish Rejuvenator
-1 Ghastbark Twins
-2 Meteor Golem
-2 Skalla Wolf
-4 Ursine Champion
-1 Vivien of the Arkbow
-3 Vivien's Jaguar
-[sideboard]
+Description=Vivien is a keen naturalist-- her magical Arkbow preserves the essence of each creature she encounters, allowing her to summon them at need. Master the wilds and crush your opponents with massive creatures.
+Deck Type=constructed
+Set=M19
+Image=vivien_of_the_arkbow.jpg
+[Main]
+1 Aggressive Mammoth|M19
+2 Bristling Boar|M19
+2 Colossal Dreadmaw|M19
+1 Colossal Majesty|M19
+1 Declare Dominance|M19
+2 Druid of the Cowl|M19
+2 Elvish Rejuvenator|M19
+7 Forest|M19|1
+7 Forest|M19|2
+6 Forest|M19|3
+6 Forest|M19|4
+1 Ghastbark Twins|M19
+2 Meteor Golem|M19
+1 Oakenform|M19
+1 Pelakka Wurm|M19
+2 Plummet|M19
+2 Rabid Bite|M19
+1 Reclamation Sage|M19
+2 Skalla Wolf|M19
+1 Thornhide Wolves|M19
+2 Titanic Growth|M19
+4 Ursine Champion|M19
+1 Vivien of the Arkbow+|M19
+3 Vivien's Jaguar|M19

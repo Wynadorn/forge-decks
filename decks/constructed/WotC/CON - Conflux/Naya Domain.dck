@@ -1,32 +1,40 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Naya Domain
-[general]
-Constructed
+Description=This deck thrives on the power of all five colors of mana, centered in the world of Naya. Go to war against the other planes using the domain mechanic, powering up your creatures and spells with the strengths of all five types of lands. Once you max out your domain with land-search spells and artifacts, you'll crush your foes with the most diverse arsenal of spells available.
+Deck Type=constructed
+Set=CFX
+Image=naya_domain.jpg
 [main]
-1 Aven Trailblazer
-1 Beacon Behemoth
-1 Drag Down
-1 Ember Weaver
-6 Forest
-1 Island
-1 Kaleidostone
-1 Kranioceros
-1 Manaforce Mace
-2 Matca Rioters
-1 Meglonoth
-1 Might of Alara
-3 Mountain
-1 Pacifism
-1 Paleoloth
-1 Path to Exile
-3 Plains
-2 Rampant Growth
-1 Shard Convergence
-2 Spore Burst
-1 Swamp
-2 Sylvan Bounty
-3 Terramorphic Expanse
-1 Vagrant Plowbeasts
-1 Wandering Goblins
-1 Woolly Thoctar
+1 Aven Trailblazer|CFX
+1 Beacon Behemoth|CFX
+1 Drag Down|CFX
+1 Ember Weaver|CFX
+3 Forest|ALA|2
+3 Forest|ALA|3
+1 Island|ALA|1
+1 Kaleidostone|CFX
+1 Kranioceros|CFX
+1 Manaforce Mace|CFX
+2 Matca Rioters|CFX
+1 Meglonoth|CFX
+1 Might of Alara|CFX
+3 Mountain|ALA|4
+1 Pacifism|10E
+1 Paleoloth+|CFX
+1 Path to Exile|CFX
+3 Plains|ALA|1
+2 Rampant Growth|10E
+1 Shard Convergence|CFX
+2 Spore Burst|CFX
+1 Swamp|ALA|4
+2 Sylvan Bounty|CFX
+3 Terramorphic Expanse|10E
+1 Vagrant Plowbeasts|CFX
+1 Wandering Goblins|CFX
+1 Woolly Thoctar|ALA
 [sideboard]

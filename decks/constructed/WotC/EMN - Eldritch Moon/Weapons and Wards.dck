@@ -1,32 +1,38 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Weapons and Wards
-[general]
-Constructed
-[main]
-1 Gryff's Boon
-1 Hope Against Hope
-1 Inspiring Captain
-1 Militant Inquisitor
-1 Open the Armory
-2 Strength of Arms
-1 Equestrian Skill
-2 Intrepid Provisioner
-13 Plains
-12 Forest
-1 Choking Restraints
-1 Courageous Outrider
-2 Faith Unbroken
-2 Fiend Binder
-2 Ironclad Slayer
-1 Ironwright's Cleansing
-1 Sigardian Priest
-1 Steadfast Cathar
-2 Subjugator Angel
-2 Thraben Standard Bearer
-2 Crossroads Consecrator
-1 Emrakul's Evangel
-2 Hamlet Captain
-1 Ulvenwald Observer
-2 Cultist's Staff
-2 Slayer's Cleaver
-[sideboard]
+Description=The angels have abandoned those they once protected, and villages are beset by monsters and angels like. As humanity is left to fend for itself, it falls to you to sound the alarm, open the armory, and call the militia!
+Deck Type=constructed
+Set=EMN
+Image=weapons_and_wards.jpg
+[Main]
+1 Choking Restraints|EMN
+1 Courageous Outrider|EMN
+2 Crossroads Consecrator|EMN
+2 Cultist's Staff|EMN
+1 Emrakul's Evangel|EMN
+1 Equestrian Skill|SOI
+2 Faith Unbroken|EMN
+2 Fiend Binder|EMN
+12 Forest|SOI
+1 Gryff's Boon|SOI
+2 Hamlet Captain|EMN
+1 Hope Against Hope|SOI
+1 Inspiring Captain|SOI
+2 Intrepid Provisioner|SOI
+2 Ironclad Slayer|EMN
+1 Ironwright's Cleansing|EMN
+1 Militant Inquisitor|SOI
+1 Open the Armory|SOI
+13 Plains|SOI
+1 Sigardian Priest|EMN
+2 Slayer's Cleaver|EMN
+1 Steadfast Cathar|EMN
+2 Strength of Arms|SOI
+2 Subjugator Angel|EMN
+2 Thraben Standard Bearer|EMN
+1 Ulvenwald Observer|EMN

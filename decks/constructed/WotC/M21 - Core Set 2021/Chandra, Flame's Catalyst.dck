@@ -1,24 +1,30 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Chandra, Flame's Catalyst
-Format=Standard
-[general]
-Constructed
-[main]
-2 Blisterspit Gremlin
-2 Chandra's Firemaw
-1 Chandra's Incinerator
-3 Chandra's Pyreling
-1 Chandra, Flame's Catalyst
-1 Double Vision
-3 Heartfire Immolator
-2 Infuriate
-3 Keral Keep Disciples
-25 Mountain
-2 Pyroceratops
-3 Shock
-2 Slaying Fire
-2 Spellgorger Weird
-4 Storm Caller
-2 Sure Strike
-2 Unleash Fury
-[sideboard]
+Description=As you can expect from Chandra, there's a lot of burning going on in this deck. Burn your opponents, burn their creatures, and make you aggressive creatures grow while you're at it.
+Deck Type=constructed
+Set=M21
+Image=chandra_flames_catalyst.jpg
+[Main]
+2 Blisterspit Gremlin|IKO
+2 Chandra's Firemaw|M21
+1 Chandra's Incinerator|M21
+3 Chandra's Pyreling|M21
+1 Chandra, Flame's Catalyst+|M21
+1 Double Vision|M21
+3 Heartfire Immolator|M21
+2 Infuriate|THB
+3 Keral Keep Disciples|M21
+25 Mountain|M21
+2 Pyroceratops|IKO
+3 Shock|M21
+2 Slaying Fire|ELD
+2 Spellgorger Weird|M21
+4 Storm Caller|M21
+2 Sure Strike|M21
+2 Unleash Fury|M21
+[Sideboard]

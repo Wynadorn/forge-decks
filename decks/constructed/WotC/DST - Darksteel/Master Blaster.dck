@@ -1,31 +1,38 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Master Blaster
-[general]
-constructed
+Description=Wear your opponents down by picking off their cards one by one, while at the same time playing indestructible cards of your own.
+Deck Type=constructed
+Set=DST
+Image=master_blaster.jpg
 [main]
-2 Darksteel Brute
-1 Granite Shard
-2 Pyrite Spellbomb
-2 Talon of Pain
-2 Duskworker
-1 Gemini Engine
-1 Goblin Replica
-2 Hematite Golem
-2 Iron Myr
-3 Oxidda Golem
-2 Steel Wall
-3 Darksteel Citadel
-3 Great Furnace
-18 Mountain
-1 Krark-Clan Grunt
-3 Krark-Clan Stoker
-1 Rustmouth Ogre
-2 Vulshok War Boar
-2 Barbed Lightning
-2 Electrostatic Bolt
-1 Grab the Reins
-1 Pulse of the Forge
-1 Detonate
-1 Fireball
-1 Molten Rain
+2 Darksteel Brute|DST
+1 Granite Shard|MRD
+2 Pyrite Spellbomb|MRD
+2 Talon of Pain|DST
+2 Duskworker|MRD
+1 Gemini Engine|DST
+1 Goblin Replica|MRD
+2 Hematite Golem|MRD
+2 Iron Myr|MRD
+3 Oxidda Golem|DST
+2 Steel Wall|MRD
+3 Darksteel Citadel|DST
+3 Great Furnace|MRD
+18 Mountain|MRD
+1 Krark-Clan Grunt|MRD
+3 Krark-Clan Stoker|DST
+1 Rustmouth Ogre|MRD
+2 Vulshok War Boar|DST
+2 Barbed Lightning|DST
+2 Electrostatic Bolt|MRD
+1 Grab the Reins|MRD
+1 Pulse of the Forge|DST
+1 Detonate|MRD
+1 Fireball|DST
+1 Molten Rain|MRD
 [sideboard]

@@ -1,31 +1,43 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
+
 [metadata]
 Name=Rebels Unite
-[general]
-Constructed
+Description=History's greatest victories all began with an act of rebellion. So shouldn't your strategy be to summon all the heroic rebels from throughout history? Punish the dominant paradigm with an unrelenting stream of freedom fighters from past, present, and future.
+Deck Type=constructed
+Set=FUT
+Image=rebels_unite.jpg
+
 [main]
-1 Defiant Vanguard
-1 Zealot il-Vec
-1 Aven Riftwatcher
-2 Return to Dust
-3 Amrou Seekers
-1 Amrou Scout
-2 Errant Doomsayers
-2 Terramorphic Expanse
-2 Outrider en-Kor
-1 Knight of the Holy Nimbus
-10 Swamp
-12 Plains
-2 Dawn Charm
-1 Blightspeaker
-2 Putrid Cyclops
-3 Lumithread Field
-1 Riftmarked Knight
-2 Samite Censer-Bearer
-2 Bound in Silence
-1 Angel of Salvation
-3 Blade of the Sixth Pride
-1 Witch's Mist
-1 Big Game Hunter
-1 Magus of the Abyss
-2 Ramosian Revivalist
+12 Plains|TSP
+10 Swamp|TSP
+2 Terramorphic Expanse|TSP
+
+2 Samite Censer-Bearer|FUT
+1 Amrou Scout|TSP
+3 Blade of the Sixth Pride|FUT
+2 Errant Doomsayers|TSP
+1 Knight of the Holy Nimbus|TSP
+3 Amrou Seekers|TSP
+1 Aven Riftwatcher|PLC
+1 Defiant Vanguard|TSB
+1 Zealot il-Vec|TSP
+2 Outrider en-Kor|TSP
+1 Riftmarked Knight|PLC
+2 Ramosian Revivalist|FUT
+1 Angel of Salvation|FUT
+1 Blightspeaker|PLC
+2 Putrid Cyclops|FUT
+1 Big Game Hunter|PLC
+1 Magus of the Abyss|FUT
+
+2 Dawn Charm|PLC
+3 Lumithread Field|FUT
+2 Bound in Silence|FUT
+2 Return to Dust|TSP
+1 Witch's Mist|FUT
+
 [sideboard]

@@ -1,32 +1,38 @@
+[shop]
+WinsToUnlock=0
+Credits=3000
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
-Name=Final Adventure
-Format=Standard
-[general]
-Constructed
-[main]
-2 Disfigure
-7 Forest
-8 Swamp
-2 Temple of Malady
-3 Jungle Hollow
-2 Midnight Reaper
-1 Vraska, Golgari Queen
-2 Find // Finality
-2 Knight of the Ebon Legion
-2 Castle Locthwain
-4 Lucky Clover
-4 Lovestruck Beast
-4 Smitten Swordmaster
-2 Blacklance Paragon
-4 Edgewall Innkeeper
-4 Order of Midnight
-1 Fabled Passage
-4 Foulmire Knight
-2 Murderous Rider
-[sideboard]
-4 Duress
-2 Thrashing Brontodon
-2 Kraul Harpooner
-2 Massacre Girl
-4 Noxious Grasp
-1 Cling to Dust
+Name=Final Adventure - Challenger 2020
+Description=Golgari Adventure deck, featuring 21 rares and 1 mythic rare.
+Deck Type=constructed
+Set=THB
+Image=final_adventure.jpg
+[Main]
+2 Blacklance Paragon|ELD
+2 Castle Locthwain|ELD
+2 Disfigure|M20
+4 Edgewall Innkeeper|ELD
+1 Fabled Passage|ELD
+2 Find // Finality|GRN
+7 Forest|M20
+4 Foulmire Knight|ELD
+3 Jungle Hollow|M20
+2 Knight of the Ebon Legion|M20
+4 Lovestruck Beast|ELD
+4 Lucky Clover|ELD
+2 Midnight Reaper|GRN
+2 Murderous Rider|ELD
+4 Order of Midnight|ELD
+4 Smitten Swordmaster|ELD
+8 Swamp|M20
+2 Temple of Malady|M20
+1 Vraska, Golgari Queen|GRN
+[Sideboard]
+1 Cling to Dust|THB
+4 Duress|M20
+2 Kraul Harpooner|GRN
+2 Massacre Girl|WAR
+4 Noxious Grasp|M20
+2 Thrashing Brontodon|M20

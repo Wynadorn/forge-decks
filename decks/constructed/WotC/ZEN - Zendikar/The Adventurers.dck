@@ -1,27 +1,34 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=The Adventurers
-[general]
-Constructed
+Description=Use your Allies to grow in strength! Turntimber Ranger heads this deck full of adventurous creatures that gain powerful abilities whenever a similar creature enters the battlefield. And you'll also quest after enchantments that can be sacrificed for great effect.
+Deck Type=constructed
+Set=ZEN
+Image=the_adventurers.jpg
 [main]
-9 Forest
-8 Mountain
-1 Terramorphic Expanse
-1 Awakener Druid
-1 Borderland Ranger
-1 Greenweaver Druid
-2 Highland Berserker
-1 Joraga Bard
-1 Kazuul Warlord
-1 Murasa Pyromancer
-2 Oran-Rief Survivalist
-1 Stonework Puma
-1 Tajuru Archer
-2 Tuktuk Grunts
-1 Turntimber Ranger
-1 Act of Treason
-1 Beast Hunt
-1 Fireball
-2 Giant Growth
-2 Lightning Bolt
-1 Overrun
+9 Forest|ZEN
+8 Mountain|ZEN
+1 Terramorphic Expanse|M10
+1 Awakener Druid|M10
+1 Borderland Ranger|M10
+1 Greenweaver Druid|ZEN
+2 Highland Berserker|ZEN
+1 Joraga Bard|ZEN
+1 Kazuul Warlord|ZEN
+1 Murasa Pyromancer|ZEN
+2 Oran-Rief Survivalist|ZEN
+1 Stonework Puma|ZEN
+1 Tajuru Archer|ZEN
+2 Tuktuk Grunts|ZEN
+1 Turntimber Ranger|ZEN
+1 Act of Treason|M10
+1 Beast Hunt|ZEN
+1 Fireball|M10
+2 Giant Growth|M10
+2 Lightning Bolt|M10
+1 Overrun|M10
 [sideboard]

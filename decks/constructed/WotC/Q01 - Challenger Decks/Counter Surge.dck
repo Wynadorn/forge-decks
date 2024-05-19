@@ -1,32 +1,38 @@
+[shop]
+WinsToUnlock=0
+Credits=3000
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Counter Surge
-Format=Standard
-[general]
-Constructed
-[main]
-7 Forest
-8 Swamp
-4 Foul Orchard
-2 Gonti, Lord of Luxury
-4 Blossoming Defense
-4 Longtusk Cub
-3 Verdurous Gearhulk
-2 Scrapheap Scrounger
-4 Aether Hub
-1 Fatal Push
-4 Glint-Sleeve Siphoner
-3 Rishkar, Peema Renegade
-1 Walking Ballista
-4 Winding Constrictor
-3 Dreamstealer
-2 Hashep Oasis
-2 Hour of Glory
-2 Walk the Plank
-[sideboard]
-4 Duress
-1 Slice in Twain
-2 Die Young
-2 Appetite for the Unnatural
-2 Lifecrafter's Bestiary
-3 Cartouche of Ambition
-1 Dispossess
+Description=Power up your creatures with bonus +1/+1 counters from Winding Constrictor and fill the board with resilient creatures that keep growing bigger. Leverage the counters for both utility and strength, then crush your opponent with your superior resources.
+Deck Type=constructed
+Set=RIX
+Image=counter_surge.jpg
+[Main]
+4 Aether Hub|KLD
+4 Blossoming Defense|KLD
+3 Dreamstealer|HOU
+1 Fatal Push|AER
+7 Forest|RIX
+4 Foul Orchard|RIX
+4 Glint-Sleeve Siphoner|AER
+2 Gonti, Lord of Luxury|KLD
+2 Hashep Oasis|HOU
+2 Hour of Glory|HOU
+4 Longtusk Cub|KLD
+3 Rishkar, Peema Renegade|AER
+2 Scrapheap Scrounger|KLD
+8 Swamp|RIX
+3 Verdurous Gearhulk|KLD
+2 Walk the Plank|XLN
+1 Walking Ballista|AER
+4 Winding Constrictor|AER
+[Sideboard]
+2 Appetite for the Unnatural|KLD
+3 Cartouche of Ambition|AKH
+2 Die Young|KLD
+1 Dispossess|AKH
+4 Duress|XLN
+2 Lifecrafter's Bestiary|AER
+1 Slice in Twain|XLN

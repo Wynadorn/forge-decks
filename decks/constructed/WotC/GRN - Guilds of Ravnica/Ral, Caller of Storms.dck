@@ -1,31 +1,36 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Ral, Caller of Storms
-Format=Preconstructed
-[general]
-Constructed
-[main]
-2 Goblin Electromancer
-10 Island
-4 Izzet Guildgate
-12 Mountain
-2 Wee Dragonauts
-1 Vedalken Mesmerist
-2 Command the Storm
-1 Chemister's Insight
-1 Direct Current
-4 Precision Bolt
-1 Passwall Adept
-1 Ral, Caller of Storms
-2 Ral's Dispersal
-3 Ral's Staticaster
-1 Rubblebelt Boar
-1 Leapfrog
-2 Hellkite Whelp
-1 Sonic Assault
-1 Erratic Cyclops
-1 Omnispell Adept
-2 Fire Urchin
-3 Fearless Halberdier
-1 Maximize Altitude
-1 Muse Drake
-[sideboard]
+Description=Ral Zarek is a quick witted storm mage who is always one step ahead of his enemies. Disrupt your opponent's plans and pummel them with a flurry of spells on your way to victory.
+Deck Type=constructed
+Set=GRN
+Image=ral_caller_of_storms.jpg
+[Main]
+1 Chemister's Insight|GRN
+2 Command the Storm|GRN
+1 Direct Current|GRN
+1 Erratic Cyclops|GRN
+3 Fearless Halberdier|GRN
+2 Fire Urchin|GRN
+2 Goblin Electromancer|GRN
+2 Hellkite Whelp|GRN
+10 Island|GRN
+4 Izzet Guildgate|GRN
+1 Leapfrog|GRN
+1 Maximize Altitude|GRN
+12 Mountain|GRN
+1 Muse Drake|GRN
+1 Omnispell Adept|GRN
+1 Passwall Adept|GRN
+4 Precision Bolt|GRN
+2 Ral's Dispersal|GRN
+3 Ral's Staticaster|GRN
+1 Ral, Caller of Storms+|GRN
+1 Rubblebelt Boar|GRN
+1 Sonic Assault|GRN
+1 Vedalken Mesmerist|GRN
+2 Wee Dragonauts|GRN

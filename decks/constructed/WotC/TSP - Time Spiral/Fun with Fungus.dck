@@ -1,30 +1,39 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
+
 [metadata]
 Name=Fun with Fungus
-[general]
-Constructed
-[main]
-2 Savage Thallid
-2 Sudden Death
-2 Thallid
-1 Feebleness
-1 Claws of Gix
-1 Pendelhaven
-1 Might of Old Krosa
-1 Verdant Embrace
-2 Sporesower Thallid
-2 Pendelhaven Elder
-1 Wormwood Dryad
-2 Fallen Ideal
-1 Assassinate
-3 Thallid Germinator
-1 Dread Return
-2 Strength in Numbers
-3 Thallid Shell-Dweller
-1 Thelon of Havenwood
-3 Deathspore Thallid
-2 Herd Gnarr
-10 Swamp
-2 Sprout
-13 Forest
-1 Krosan Grip
-[sideboard]
+Description=Fungus doesn't think or sleep—it just spreads and devours. The Fun with Fungus deck lets you take the reins of a post-apocalyptic rampage of Thallids, and these freaky fungus fiends won't take "Eeeeewww!" for an answer.
+Deck Type=constructed
+Set=TSP
+Image=fun_with_fungus.jpg
+
+[Main]
+1 Assassinate|TSP
+1 Claws of Gix|TSB
+3 Deathspore Thallid|TSP
+1 Dread Return|TSP
+2 Fallen Ideal|TSP
+1 Feebleness|TSP
+13 Forest|TSP|1
+2 Herd Gnarr|TSP
+1 Krosan Grip|TSP
+1 Might of Old Krosa|TSP
+1 Pendelhaven|TSB
+2 Pendelhaven Elder|TSP
+2 Savage Thallid|TSP
+2 Sporesower Thallid|TSP
+2 Sprout|TSP
+2 Strength in Numbers|TSP
+2 Sudden Death|TSP
+10 Swamp|TSP|1
+2 Thallid|TSB
+3 Thallid Germinator|TSP
+3 Thallid Shell-Dweller|TSP
+1 Thelon of Havenwood|TSP
+1 Verdant Embrace|TSP
+1 Wormwood Dryad|TSP
+[Sideboard]

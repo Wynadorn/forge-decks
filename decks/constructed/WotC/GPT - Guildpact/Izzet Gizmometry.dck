@@ -1,31 +1,37 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
+Deck Type=constructed
+Set=GPT
+Image=izzet_gizmometry.jpg
 Name=Izzet Gizmometry
-[general]
-Constructed
-[main]
-1 Mark of Eviction
-1 Rain of Embers
-2 Peel from Reality
-2 Telling Time
-2 Convolute
-1 Reroute
-10 Mountain
-12 Island
-2 Repeal
-1 Electrolyze
-3 Pyromatics
-1 Vacuumelt
-2 Frazzle
-1 Gelectrode
-2 Petrahydrox
-2 Wee Dragonauts
-3 Train of Thought
-2 Runeboggle
-1 Nivix, Aerie of the Firemind
-2 Thunderheads
-1 Izzet Guildmage
-2 Izzet Chronarch
-1 Tibor and Lumia
-2 Izzet Boilerworks
-1 Leyline of Lightning
-[sideboard]
+Description=The mad scientists of the Izzet guild are always running experiments to find the next breakthrough in weird science. The replicate mechanic, which turns a single spell into a cluster of them, is the latest weapon in their toy box of magical technology.
+[Main]
+2 Convolute|RAV
+1 Electrolyze|GPT
+2 Frazzle|GPT
+1 Gelectrode|GPT
+12 Island|RAV
+2 Izzet Boilerworks|GPT
+2 Izzet Chronarch|GPT
+1 Izzet Guildmage|GPT
+1 Leyline of Lightning|GPT
+1 Mark of Eviction|RAV
+10 Mountain|RAV
+1 Nivix, Aerie of the Firemind|GPT
+2 Peel from Reality|RAV
+2 Petrahydrox|GPT
+3 Pyromatics|GPT
+1 Rain of Embers|RAV
+2 Repeal|GPT
+1 Reroute|RAV
+2 Runeboggle|GPT
+2 Telling Time|RAV
+2 Thunderheads|GPT
+1 Tibor and Lumia|GPT
+3 Train of Thought|GPT
+1 Vacuumelt|GPT
+2 Wee Dragonauts|GPT

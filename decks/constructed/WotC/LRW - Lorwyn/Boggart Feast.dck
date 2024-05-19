@@ -1,30 +1,37 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Boggart Feast
-[general]
-Constructed
+Description=You're a Lorwyn boggart, a goblin who loves all things painful, stinky, and delicious! Join your cousins and the Auntie of your warren to wreck multisensory havoc on the unsuspecting glades.
+Deck Type=constructed
+Set=LRW
+Image=boggart_feast.jpg
 [main]
-2 Boggart Harbinger
-2 Boggart Shenanigans
-2 Ghostly Changeling
-1 Tar Pitcher
-2 Tarfire
-2 Marsh Flitter
-1 Mad Auntie
-1 Squeaking Pie Sneak
-2 Mudbutton Torchrunner
-2 Lowland Oaf
-1 Boggart Mob
-2 Shimmering Grotto
-2 Hornet Harasser
-2 Boggart Birth Rite
-3 Facevaulter
-1 Goatnapper
-12 Swamp
-10 Mountain
-2 Warren Pilferers
-3 Adder-Staff Boggart
-1 Hoarder's Greed
-2 Exiled Boggart
-1 Spiderwig Boggart
-1 Fodder Launch
+2 Boggart Harbinger|LRW
+2 Boggart Shenanigans|LRW
+2 Ghostly Changeling|LRW
+1 Tar Pitcher|LRW
+2 Tarfire|LRW
+2 Marsh Flitter|LRW
+1 Mad Auntie|LRW
+1 Squeaking Pie Sneak|LRW
+2 Mudbutton Torchrunner|LRW
+2 Lowland Oaf|LRW
+1 Boggart Mob|LRW
+2 Shimmering Grotto|LRW
+2 Hornet Harasser|LRW
+2 Boggart Birth Rite|LRW
+3 Facevaulter|LRW
+1 Goatnapper|LRW
+12 Swamp|LRW
+10 Mountain|LRW
+2 Warren Pilferers|LRW
+3 Adder-Staff Boggart|LRW
+1 Hoarder's Greed|LRW
+2 Exiled Boggart|LRW
+1 Spiderwig Boggart|LRW
+1 Fodder Launch|LRW
 [sideboard]

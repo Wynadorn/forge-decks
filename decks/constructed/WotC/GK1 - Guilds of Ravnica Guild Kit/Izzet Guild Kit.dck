@@ -1,43 +1,50 @@
+[shop]
+WinsToUnlock=20
+Credits=3000
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Izzet Guild Kit
-Format=Preconstructed
-[general]
-Constructed
+Description=Welcome to the Izzet League! Our calculations suggest that you're bound for greatness. This box contains a variety of (highly classified) prototypes to assist with your experiments. Go try something new!
+Set=GK1
+Image=izzet_guild_kit.jpg
 [main]
-1 Cerebral Vortex
-1 Char
-1 Electrickery
-1 Electrolyze
-1 Gelectrode
-1 Goblin Electromancer
-1 Goblin Rally
-2 Guttersnipe
-1 Hypersonic Dragon
-1 Invoke the Firemind
-8 Island
-4 Izzet Boilerworks
-1 Izzet Charm
-4 Izzet Guildgate
-2 Izzet Signet
-1 Mizzium Mortars
-8 Mountain
-1 Niv-Mizzet, the Firemind
-2 Nivix Guildmage
-1 Pyromatics
-1 Shattering Spree
-1 Stitch in Time
-1 Thunderheads
-1 Tibor and Lumia
-2 Wee Dragonauts
-1 Turn // Burn
-1 Djinn Illuminatus
-1 Crackling Drake
-1 Chemister's Insight
-1 Direct Current
-1 Radical Idea
-1 Beacon Bolt
-1 Electrostatic Field
-1 Erratic Cyclops
-1 Firemind's Research
-1 Quasiduplicate
-[sideboard]
+1 Beacon Bolt|GRN
+1 Cerebral Vortex|GK1
+1 Char|GK1
+1 Chemister's Insight|GRN
+1 Crackling Drake|GRN
+1 Direct Current|GRN
+1 Djinn Illuminatus|GK1
+1 Electrickery|GK1
+1 Electrolyze|GK1
+1 Electrostatic Field|GRN
+1 Erratic Cyclops|GRN
+1 Firemind's Research|GRN
+1 Gelectrode|GK1
+1 Goblin Electromancer|GRN
+1 Goblin Rally|GK1
+2 Guttersnipe|GK1
+1 Hypersonic Dragon|GK1
+1 Invoke the Firemind|GK1
+4 Island|GK1|1
+4 Island|GK1|2
+4 Izzet Boilerworks|GK1
+1 Izzet Charm|GK1
+2 Izzet Guildgate|GRN|1
+2 Izzet Guildgate|GRN|2
+2 Izzet Signet|GK1
+1 Mizzium Mortars|GK1
+4 Mountain|GK1|1
+4 Mountain|GK1|2
+1 Niv-Mizzet, the Firemind+|GK1
+2 Nivix Guildmage|GK1
+1 Pyromatics|GK1
+1 Quasiduplicate|GRN
+1 Radical Idea|GRN
+1 Shattering Spree|GK1
+1 Stitch in Time|GK1
+1 Thunderheads|GK1
+1 Tibor and Lumia|GK1
+1 Turn // Burn|GK1
+2 Wee Dragonauts|DDJ

@@ -1,28 +1,35 @@
+[shop]
+WinsToUnlock=0
+Credits=1200
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Unstable Terrain
-[general]
-constructed
+Description=Playing Land pays big with the "landfall" ability. Make a creature bigger, gain life, steal an opponent's creature, and more. Then swoop down for a deadly finish with the Sphinx of Jwar Isle, a 5/5 blue flier that can't be targeted.
+Deck Type=constructed
+Set=ZEN
+Image=unstable_terrain.jpg
 [main]
-7 Forest
-10 Island
-1 Baloth Woodcrasher
-1 Coral Merfolk
-1 Frontier Guide
-1 Gomazoa
-1 Grazing Gladehart
-1 Living Tsunami
-1 Merfolk Wayfinder
-1 Roil Elemental
-2 Sage Owl
-1 Sphinx of Jwar Isle
-1 Territorial Baloth
-1 Turntimber Basilisk
-2 Windrider Eel
-2 Ior Ruin Expedition
-1 Mind Control
-2 Paralyzing Grasp
-1 Giant Growth
-1 Harrow
-1 Unsummon
-1 Terramorphic Expanse
+7 Forest|ZEN
+10 Island|ZEN
+1 Baloth Woodcrasher|ZEN
+1 Coral Merfolk|M10
+1 Frontier Guide|ZEN
+1 Gomazoa|ZEN
+1 Grazing Gladehart|ZEN
+1 Living Tsunami|ZEN
+1 Merfolk Wayfinder|ZEN
+1 Roil Elemental|ZEN
+2 Sage Owl|M10
+1 Sphinx of Jwar Isle+|ZEN
+1 Territorial Baloth|ZEN
+1 Turntimber Basilisk|ZEN
+2 Windrider Eel|ZEN
+2 Ior Ruin Expedition|ZEN
+1 Mind Control|M10
+2 Paralyzing Grasp|ZEN
+1 Giant Growth|M10
+1 Harrow|ZEN
+1 Unsummon|M10
+1 Terramorphic Expanse|M10
 [sideboard]

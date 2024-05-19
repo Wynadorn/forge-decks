@@ -1,45 +1,51 @@
+[shop]
+WinsToUnlock=20
+Credits=3000
+MinDifficulty=0
+MaxDifficulty=5
 [metadata]
 Name=Orzhov Guild Kit
-Format=Preconstructed
-[general]
-Constructed
-[main]
-1 Angel of Despair
-1 Belfry Spirit
-1 Debtors' Knell
-1 Ghost Council of Orzhova
-1 Keening Banshee
-1 Martyred Rusalka
-1 Mortify
-4 Orzhov Basilica
-1 Orzhov Pontiff
-2 Orzhov Signet
-1 Pillory of the Sleepless
-1 Plagued Rusalka
-8 Plains
-1 Skeletal Vampire
-1 Stab Wound
-8 Swamp
-1 Teysa, Orzhov Scion
-1 Ultimate Price
-1 Deathpact Angel
-1 One Thousand Lashes
-1 Orzhov Charm
-2 Orzhov Guildgate
-2 Orzhov Guildgate
-1 Treasury Thrull
-2 Vizkopa Guildmage
-1 Pontiff of Blight
-1 Sin Collector
-1 Vindictive Vampire
-1 Teysa Karlov
-2 Imperious Oligarch
-1 Pitiless Pontiff
-1 Smothering Tithe
-1 Basilica Bell-Haunt
-1 Ethereal Absolution
-1 Orzhov Enforcer
-1 Final Payment
-1 Ministrant of Obligation
-1 Consecrate // Consume
-[sideboard]
+Description=Welcom to the Orzhov Syndicate. This box contains everything you need to attain lavish wealth and eternal life to enjoy it… so long as you pay your debts. Claim all that is owed to you.
+Set=GK2
+Image=orzhov_guild_kit.jpg
+[Avatar]
+
+[Main]
+1 Angel of Despair|GK2
+1 Basilica Bell-Haunt|RNA
+1 Belfry Spirit|GK2
+1 Consecrate // Consume|RNA
+1 Deathpact Angel|GK2
+1 Debtors' Knell|GK2
+1 Ethereal Absolution|RNA
+1 Final Payment|RNA
+1 Ghost Council of Orzhova|GK2
+2 Imperious Oligarch|RNA
+1 Keening Banshee|GK2
+1 Martyred Rusalka|GK2
+1 Ministrant of Obligation|RNA
+1 Mortify|RNA
+1 One Thousand Lashes|GK2
+4 Orzhov Basilica|GK2
+1 Orzhov Charm|GK2
+1 Orzhov Enforcer|RNA
+2 Orzhov Guildgate|RNA|1
+2 Orzhov Guildgate|RNA|2
+1 Orzhov Pontiff|GK2
+2 Orzhov Signet|GK2
+1 Pillory of the Sleepless|GK2
+1 Pitiless Pontiff|RNA
+1 Plagued Rusalka|GK2
+8 Plains|GK2|2
+1 Pontiff of Blight|GK2
+1 Sin Collector|GK2
+1 Skeletal Vampire|GK2
+1 Smothering Tithe|RNA
+1 Stab Wound|GK2
+8 Swamp|GK2|1
+1 Teysa Karlov|RNA
+1 Teysa, Orzhov Scion+|GK2
+1 Treasury Thrull|GK2
+1 Ultimate Price|GK2
+1 Vindictive Vampire|RNA
+2 Vizkopa Guildmage|GK2
